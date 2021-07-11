@@ -8,5 +8,3 @@ To run this Application on Ubuntu:
   4. Write "cd Cafe-Billing-System-main"
   2. Write - "sudo chmod +x CafeBillingSystem"
   6. Write - "./CafeBillingSystem"
-
-                            [I'm an inline-style link](https://www.google.com)
