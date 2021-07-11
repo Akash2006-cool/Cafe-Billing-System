@@ -1,5 +1,9 @@
 # Cafe-Billing-System
-Project Made in QT(cute)  .
+Tool You needed :
+1. Linux-Based Operating System .
+2. QT IDE
+3. Terminal
+4. Time
 
 To run this Application on Ubuntu or other Linux Distos:
 Graphical Method -
