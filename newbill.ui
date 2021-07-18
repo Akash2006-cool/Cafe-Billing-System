@@ -13,6 +13,10 @@
   <property name="windowTitle">
    <string>Cafe Receipt ~ New Bill</string>
   </property>
+  <property name="windowIcon">
+   <iconset resource="res.qrc">
+    <normaloff>:/res/images.png</normaloff>:/res/images.png</iconset>
+  </property>
   <property name="styleSheet">
    <string notr="true">* {
 	background: #191919;
@@ -1821,6 +1825,8 @@ font-weight:bold;</string>
    </layout>
   </widget>
  </widget>
- <resources/>
+ <resources>
+  <include location="res.qrc"/>
+ </resources>
  <connections/>
 </ui>
