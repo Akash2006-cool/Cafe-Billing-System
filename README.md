@@ -1,9 +1,4 @@
 # Cafe-Billing-System
-Tool You needed :
-1. Linux-Based Operating System .
-2. QT IDE
-3. Terminal
-4. Time
 
 To run this Application on Ubuntu or other Linux Distos:
 Graphical Method -
@@ -25,6 +20,5 @@ To Re-open this Project in QT :
 2. Go to : File->Open File or Project . 
 3. Then , navigate to this and Double-click on it .
 4. Then , Double-click on "CafeBillingSystem.pro" . 
-5. Then , Do do WHATEVER you want to do . 
+5. DONE . 
 
--Akash Kumar
